@@ -10347,7 +10347,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 var mobilemenu = new _MobileMenu2.default();
 //var revealOnScroll = new RevealOnScroll();
 new _RevealOnScroll2.default((0, _jquery2.default)(".feature-item"), "85%");
-new _RevealOnScroll2.default((0, _jquery2.default)(".testimonial"), "60%");
+new _RevealOnScroll2.default((0, _jquery2.default)(".testimonial"), "65%");
 
 /***/ }),
 /* 2 */
