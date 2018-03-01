@@ -67,7 +67,7 @@
 /* 0 */
 /***/ (function(module, exports) {
 
-throw new Error("Module build failed: SyntaxError: F:/Tutorials/1.new/git-modern-workflow/pratice/holiday-demo/app/assets/scripts/app.js: Unexpected token (9:0)\n\n   7 | //var revealOnScroll = new RevealOnScroll();\n   8 | new RevealOnScroll($(\".feature-item\"), \"85%\");\n>  9 | <<<<<<< HEAD\n     | ^\n  10 | new RevealOnScroll($(\".testimonial\"), \"60%\");\n  11 | =======\n  12 | new RevealOnScroll($(\".testimonial\"), \"60%\");\n");
+throw new Error("Module build failed: SyntaxError: F:/Tutorials/1.new/git-modern-workflow/pratice/holiday-demo/app/assets/scripts/app.js: Unexpected token (12:0)\n\n  10 | new RevealOnScroll($(\".testimonial\"), \"60%\");\n  11 | var stickyHeader = new StickyHeader();\n> 12 | >>>>>>> sticky-header\n     | ^\n  13 | \n");
 
 /***/ })
 /******/ ]);
